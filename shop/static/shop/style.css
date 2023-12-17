@@ -1,0 +1,9 @@
+
+    .header-bar {
+        display: flex;
+        justify-content: space-between;
+        color: #222020;
+        padding: 10px;
+        border-radius: 5px 5px 0 0;
+        background: linear-gradient(90deg, #008cff 0%, #d469ff 43%, #ff00bf 100%);
+    }
